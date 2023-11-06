@@ -17,6 +17,6 @@ These challenges can be solved in any programming language. In my case, I solve 
 <summary>Challenge #1 ✅</summary>
 
 
-#### [Javascript answer.]()
-#### [Python answer.]()
+#### [Javascript answer.](https://github.com/TheGuyInTheShell/codember-2023/blob/main/python/challengue_1.py)
+#### [Python answer.](https://github.com/TheGuyInTheShell/codember-2023/blob/main/javascript/challengue_1.js)
 
