@@ -14,14 +14,13 @@ These challenges can be solved in any programming language. In my case, I solve 
 <details>
 <summary>Challenge #1 ✅</summary>
 
-
 #### [Javascript answer.](https://github.com/TheGuyInTheShell/codember-2023/blob/main/python/challengue_1.py)
 #### [Python answer.](https://github.com/TheGuyInTheShell/codember-2023/blob/main/javascript/challengue_1.js)
-
+</details>
 
 <details>
-<summary>Challenge #1 ✅</summary>
-
+<summary>Challenge #2 ✅</summary>
 
 #### [Javascript answer.](https://github.com/TheGuyInTheShell/codember-2023/blob/main/python/challengue_2.py)
 #### [Python answer.](https://github.com/TheGuyInTheShell/codember-2023/blob/main/javascript/challengue_2.js)
+</details>
