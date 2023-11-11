@@ -38,4 +38,4 @@ def count_words(message: str) -> str:
     return "".join(f"{word}{message.count(word)}" for word in words)
 
 
-print(count_words(message)) #0.002
+print(count_words(message)) # 0.002seg

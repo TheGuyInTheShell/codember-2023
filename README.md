@@ -10,8 +10,6 @@ These challenges can be solved in any programming language. In my case, I solve 
 
 ## 🎯 2023
 
-### 🥷🏻 Challenges Tricks, and Secrets
-
 
 <details>
 <summary>Challenge #1 ✅</summary>
@@ -20,3 +18,10 @@ These challenges can be solved in any programming language. In my case, I solve 
 #### [Javascript answer.](https://github.com/TheGuyInTheShell/codember-2023/blob/main/python/challengue_1.py)
 #### [Python answer.](https://github.com/TheGuyInTheShell/codember-2023/blob/main/javascript/challengue_1.js)
 
+
+<details>
+<summary>Challenge #1 ✅</summary>
+
+
+#### [Javascript answer.](https://github.com/TheGuyInTheShell/codember-2023/blob/main/python/challengue_2.py)
+#### [Python answer.](https://github.com/TheGuyInTheShell/codember-2023/blob/main/javascript/challengue_2.js)

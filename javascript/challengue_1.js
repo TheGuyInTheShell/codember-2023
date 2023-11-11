@@ -43,4 +43,5 @@ const countWords = (message = '')=>{
             '')
 }
 
-console.log(countWords(message)); // 1ms
+
+console.log(countWords(message)); // 6.5ms
