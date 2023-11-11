@@ -38,16 +38,16 @@ def compiler(code: str) -> str:
    output = ''
    for char in code:
         match char:
-                case '&':
-                    output += str(acc)
-                case '#':
-                    acc += 1
-                case '@':
-                    acc -= 1
-                case '*':
-                    acc **= 2
-                case _:
-                     continue
+            case '&':
+                output += str(acc)
+            case '#':
+                acc += 1
+            case '@':
+                acc -= 1
+            case '*':
+                acc **= 2
+            case _:
+                continue
    return output
 
 
