@@ -58,5 +58,5 @@ const countWords2 = (message = '')=>{
 }
 
 console.time('at')
-console.log(countWords2(message)); // 1ms
+console.log(countWords2(message)); // 6ms
 console.timeEnd('at')
