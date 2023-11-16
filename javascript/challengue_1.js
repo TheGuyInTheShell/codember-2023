@@ -44,19 +44,15 @@ const countWords = (message = '')=>{
             '')
 }
 
-console.time('at')
 console.log(countWords(message)); // 6.5ms
-console.timeEnd('at')
 
 const countWords2 = (message = '')=>{
     const wordsCount = [];
     new Set(message.toLowerCase().split(' ')).forEach((word)=>{
         const count = message.match(RegExp(word, 'g')).length;
-        wordsCount.push(`${word}${count}`)
+        wordsCount.push(`${word}${count}`);
     })
-    return wordsCount.join('')
+    return wordsCount.join('');
 }
 
-console.time('at')
 console.log(countWords2(message)); // 6ms
-console.timeEnd('at')
