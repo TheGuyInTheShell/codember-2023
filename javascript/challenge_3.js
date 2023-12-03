@@ -539,11 +539,11 @@ const getRealPolices = (policesDb = '')=>{
     const [min, max] = interval.split('-');
     const charCount = [...password.matchAll(char, 'g')].length;
     if(charCount >= +min && charCount <= +max){
-      return acc
+      return acc;
     }
-      acc.push(password.trim())
-      return acc 
+    acc.push(password.trim());
+    return acc;
   }, [])
 }
 
-console.log(getRealPolices(policesDb)[41])
+console.log(getRealPolices(policesDb)[41]);

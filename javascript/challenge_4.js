@@ -140,4 +140,4 @@ const getRealChecksum = (database = '')=>{
     })
 }
 
-console.log(getRealChecksum(database)[32])
+console.log(getRealChecksum(database)[32]);
